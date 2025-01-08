@@ -1,1 +1,1 @@
-# vercel-webhook-tester
+# webhook-tester
